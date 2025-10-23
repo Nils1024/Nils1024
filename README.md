@@ -1,6 +1,6 @@
-### Hi there 👋 <!--my name is Suchti18 from :de:-->
+### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suchti18" alt="Suchti18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nils1028" alt="Nils1028" /> </p>
 
 ---
 
@@ -15,25 +15,23 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
   </a>
 
-  <!--
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  -->
 </p>
 
 ---
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suchti18&show_icons=true&locale=en&theme=radical" alt="suchti18" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchti18&layout=compact&theme=radical" alt="suchti18" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nils1028&show_icons=true&locale=en&theme=radical" alt="Nils1028" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nils1028&layout=compact&theme=radical" alt="Nils1028" />
 </p>
 
 ---
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Suchti18/Suchti18/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nils1028/Nils1028/output/snake.svg" alt="Snake animation" />
 
 <!--
 Here are some ideas to get you started:
