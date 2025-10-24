@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nils1028" alt="Nils1028" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nils1024" alt="Nils1024" /> </p>
 
 ---
 
@@ -23,15 +23,15 @@
 ---
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nils1028&show_icons=true&locale=en&theme=radical" alt="Nils1028" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nils1028&layout=compact&theme=radical" alt="Nils1028" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nils1024&show_icons=true&locale=en&theme=radical" alt="Nils1024" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nils1024&layout=compact&theme=radical" alt="Nils1024" />
 </p>
 
 ---
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nils1028/Nils1028/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nils1024/Nils1024/output/snake.svg" alt="Snake animation" />
 
 <!--
 Here are some ideas to get you started:
